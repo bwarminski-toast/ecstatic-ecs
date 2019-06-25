@@ -1,0 +1,5 @@
+defaultGreeting: "Hi there"
+logging:
+  level: INFO
+  loggers:
+    com.toasttab.example: DEBUG
