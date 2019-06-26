@@ -8,8 +8,8 @@ Java/Dropwizard based microservice running on ECS (and AWS).
                                      -> aggregate builder task
                                      
  
-- 00 - Docker build single app, run locally (dockerfile, ports, volumes), push Homework: graphql
-- 01 - Launch an instance, AMIs, security groups, keypairs, SSH, docker pull/run. Resource usage, docker exec
+- 00 - Docker build single app, run locally (dockerfile, ports, volumes)
+- 01 - Launch an instance, AMIs, security groups, keypairs, SSH, docker push/pull/run. Resource usage, docker exec
 - 02 - Launch an instance automatically (ASG), user data, load balancer, health checks
 - 03 - Container cluster, ECS as a scheduler - deploy it as a task
 - 03 - ECS services, health checks, autoscaling

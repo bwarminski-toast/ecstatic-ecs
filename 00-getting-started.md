@@ -1,5 +1,7 @@
 ## Goals
 
+The goal of this tutorial is for you to be able to create a Docker container that will be deployed onto AWS.
+
 ## Prerequisites
 
 - Docker installed (Docker for Mac on OSX)
