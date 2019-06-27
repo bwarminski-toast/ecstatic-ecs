@@ -41,8 +41,7 @@ ssh-keygen -t rsa -b 4096
 
 - jq
 
-`jq` is a handy utility to parsing JSON on the command line. It makes automation of some aws cli commands a little more manageable
-before you've graduated to Terraform (see Terraform below).
+`jq` is a handy utility to parsing JSON on the command line. It makes automation of some aws cli commands a little more manageable.
 
 ```
 $ jq -V
@@ -53,22 +52,6 @@ If the command is missing, do:
 
 ```
 brew install jq
-```
-
-- Terraform
-
-```
-$ which terraform
-/usr/local/bin/terraform
-```
-
-This isn't strictly necessary because all actions can be performed using the AWS CLI or the console, but Terraform comes in handy
-when there are a lot of configuration variables that need to get passed to create different AWS resources.
-
-If missing:
-
-```
-brew install terraform
 ```
 
 - An AWS access key and secret stored in a safe place

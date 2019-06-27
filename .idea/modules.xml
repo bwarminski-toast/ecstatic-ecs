@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ecstatic-ecs.iml" filepath="$PROJECT_DIR$/.idea/ecstatic-ecs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello/hello.iml" filepath="$PROJECT_DIR$/hello-world/hello/hello.iml" />
+    </modules>
+  </component>
+</project>
